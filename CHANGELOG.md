@@ -1,3 +1,34 @@
+## [2026-01-10]
+
+### ✨ Features
+-  implement animated scrolling during capture for better visual tracking (6ae5af6) - @Abhin Vaidya
+-  add Premium Smooth Scroll setting to popup UI (fc36015) - @Abhin Vaidya
+-  implement smart pre-scroll for lazy-loading and improved scroll timing (479b759) - @Abhin Vaidya
+-  add watch.js script for development file watching (53f0528) - @Diksha78-bot
+-  add context menu support for full page, visible area and element capture (00f591f) - @Abhin Vaidya
+
+### 🐛 Bug Fixes
+-  eliminate SyntaxError on re-injection by using var and property guards (6d2847b) - @Abhin Vaidya
+-  resolve SyntaxError by wrapping content script in block scope and prevent duplicate listeners (bf6cfe4) - @Abhin Vaidya
+-  resolve stitching artifacts at page end and handle dynamic height after lazy-loading (1c539d2) - @Abhin Vaidya
+-  complete dev script command with watch (7a57cfd) - @Diksha Dabhole
+
+### 📝 Documentation
+-  auto update changelog (d539efd) - @HarshYadav152
+-  auto update changelog (4ddd83a) - @HarshYadav152
+-  auto update changelog (c7d6ed7) - @HarshYadav152
+-  auto update changelog (ab022f3) - @HarshYadav152
+-  auto update changelog (ca60888) - @HarshYadav152
+-  auto update changelog (5cff341) - @HarshYadav152
+
+### 📦 Other Changes
+- Create CNAME (d5173ed) - @Harsh Yadav
+- fixed chatbot to an advanced version (c5a53f8) - @Sheetal
+- Footer done with changes (0c253e6) - @Souradeep858
+- Added advanced AI chatbot (6c69487) - @Sheetal
+- linked navbar to the respective destinations (82bf8b0) - @Sheetal
+
+
 ## [2026-01-09]
 
 ### ✨ Features
